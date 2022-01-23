@@ -1,0 +1,17 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-profit-center-reads/SAP_API_Caller/caller.go#L77",
+	"function": "sap-api-integrations-profit-center-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": [
+		{
+			"Language": "EN",
+			"ControllingArea": "A000",
+			"ProfitCenter": "AUSV0",
+			"ValidityEndDate": "/Date(253402214400000)/",
+			"ValidityStartDate": "/Date(1451606400000)/",
+			"ProfitCenterName": "Management",
+			"ProfitCenterLongName": "Management"
+		}
+	],
+	"time": "2022-01-23T11:54:00.43197+09:00"
+}

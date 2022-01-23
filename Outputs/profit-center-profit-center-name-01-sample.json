@@ -1,0 +1,98 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-profit-center-reads/SAP_API_Caller/caller.go#L175",
+	"function": "sap-api-integrations-profit-center-reads/SAP_API_Caller.(*SAPAPICaller).ProfitCenterName",
+	"level": "INFO",
+	"message": [
+		{
+			"Language": "EN",
+			"ControllingArea": "A000",
+			"ProfitCenter": "Z_LOG_PC3",
+			"ValidityEndDate": "/Date(253402214400000)/",
+			"ValidityStartDate": "/Date(1451606400000)/",
+			"ProfitCenterName": "Inventory Management",
+			"ProfitCenterLongName": "Inventory Management"
+		},
+		{
+			"Language": "EN",
+			"ControllingArea": "A000",
+			"ProfitCenter": "US10_C1_3",
+			"ValidityEndDate": "/Date(253402214400000)/",
+			"ValidityStartDate": "/Date(1451606400000)/",
+			"ProfitCenterName": "Inventory Management",
+			"ProfitCenterLongName": "Inventory Management"
+		},
+		{
+			"Language": "EN",
+			"ControllingArea": "A000",
+			"ProfitCenter": "US10_M1_3",
+			"ValidityEndDate": "/Date(253402214400000)/",
+			"ValidityStartDate": "/Date(1451606400000)/",
+			"ProfitCenterName": "Inventory Management",
+			"ProfitCenterLongName": "Inventory Management"
+		},
+		{
+			"Language": "EN",
+			"ControllingArea": "A000",
+			"ProfitCenter": "US10_R1_3",
+			"ValidityEndDate": "/Date(253402214400000)/",
+			"ValidityStartDate": "/Date(1451606400000)/",
+			"ProfitCenterName": "Inventory Management",
+			"ProfitCenterLongName": "Inventory Management"
+		},
+		{
+			"Language": "EN",
+			"ControllingArea": "A000",
+			"ProfitCenter": "US10_Y1_3",
+			"ValidityEndDate": "/Date(253402214400000)/",
+			"ValidityStartDate": "/Date(1451606400000)/",
+			"ProfitCenterName": "Inventory Management",
+			"ProfitCenterLongName": "Inventory Management"
+		},
+		{
+			"Language": "EN",
+			"ControllingArea": "A000",
+			"ProfitCenter": "DE10_C1_3",
+			"ValidityEndDate": "/Date(253402214400000)/",
+			"ValidityStartDate": "/Date(1420070400000)/",
+			"ProfitCenterName": "Inventory Management",
+			"ProfitCenterLongName": "Inventory Management"
+		},
+		{
+			"Language": "EN",
+			"ControllingArea": "A000",
+			"ProfitCenter": "DE10_M1_3",
+			"ValidityEndDate": "/Date(253402214400000)/",
+			"ValidityStartDate": "/Date(1420070400000)/",
+			"ProfitCenterName": "Inventory Management",
+			"ProfitCenterLongName": "Inventory Management"
+		},
+		{
+			"Language": "EN",
+			"ControllingArea": "A000",
+			"ProfitCenter": "DE10_R1_3",
+			"ValidityEndDate": "/Date(253402214400000)/",
+			"ValidityStartDate": "/Date(1420070400000)/",
+			"ProfitCenterName": "Inventory Management",
+			"ProfitCenterLongName": "Inventory Management"
+		},
+		{
+			"Language": "EN",
+			"ControllingArea": "A000",
+			"ProfitCenter": "DE10_Y1_3",
+			"ValidityEndDate": "/Date(253402214400000)/",
+			"ValidityStartDate": "/Date(1420070400000)/",
+			"ProfitCenterName": "Inventory Management",
+			"ProfitCenterLongName": "Inventory Management"
+		},
+		{
+			"Language": "EN",
+			"ControllingArea": "A000",
+			"ProfitCenter": "ZGEN_PC3",
+			"ValidityEndDate": "/Date(253402214400000)/",
+			"ValidityStartDate": "/Date(631152000000)/",
+			"ProfitCenterName": "Inventory Management",
+			"ProfitCenterLongName": "Inventory Management"
+		}
+	],
+	"time": "2022-01-23T12:01:28.40211+09:00"
+}

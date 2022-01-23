@@ -1,0 +1,13 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-profit-center-reads/SAP_API_Caller/caller.go#L144",
+	"function": "sap-api-integrations-profit-center-reads/SAP_API_Caller.(*SAPAPICaller).CompanyCodeAssignment",
+	"level": "INFO",
+	"message": [
+		{
+			"ControllingArea": "A000",
+			"ProfitCenter": "AUSV0",
+			"CompanyCode": "3010"
+		}
+	],
+	"time": "2022-01-23T12:14:47.328992+09:00"
+}
